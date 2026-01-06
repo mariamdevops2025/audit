@@ -54,17 +54,17 @@ L'audit a été conduit selon une approche **non intrusive** (lecture seule, obs
 | **Moyenne** | 3 | C-004 (Wi‑Fi invité), C-006 (RGPD), C-007 (Verrouillage) |
 
 **Points positifs identifiés** :
-- ✅ MFA activée pour les comptes administrateurs
-- ✅ Stratégie de sauvegarde partiellement en place (quotidienne + hors site)
-- ✅ Procédure d'incidents existante (à compléter)
-- ✅ Attestation HDS pour l'hébergeur MedSimple
-- ✅ Antivirus/EDR déployé sur 100% des postes
+-  MFA activée pour les comptes administrateurs
+-  Stratégie de sauvegarde partiellement en place (quotidienne + hors site)
+-  Procédure d'incidents existante (à compléter)
+-  Attestation HDS pour l'hébergeur MedSimple
+-  Antivirus/EDR déployé sur 100% des postes
 
 **Risques majeurs** :
-- 🔴 **Absence de MFA obligatoire** pour tous les comptes (risque phishing)
-- 🔴 **Stratégie de sauvegarde incomplète** et tests de restauration non réguliers
-- 🔴 **Retard dans l'application des correctifs** de sécurité
-- 🔴 **Procédure d'incidents incomplète** (délais RGPD, kit de crise)
+- **Absence de MFA obligatoire** pour tous les comptes (risque phishing)
+- **Stratégie de sauvegarde incomplète** et tests de restauration non réguliers
+- **Retard dans l'application des correctifs** de sécurité
+- **Procédure d'incidents incomplète** (délais RGPD, kit de crise)
 
 ### 1.5 Plan d'actions priorisé
 
