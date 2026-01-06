@@ -1,0 +1,9 @@
+Nom_poste,Type,OS,Agent_EDR_installe,Statut_agent,Date_derniere_mise_a_jour_signatures,Version_agent
+Poste_Accueil_01,Accueil,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Accueil_02,Accueil,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Secretaire_01,Secrétariat,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Secretaire_02,Secrétariat,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Medecin_01,Médecin,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Medecin_02,Médecin,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Medecin_03,Médecin,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1
+Poste_Direction_01,Direction,Windows 11 Pro,Oui,Actif,2025-12-13,Agent_v2.5.1

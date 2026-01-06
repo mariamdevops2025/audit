@@ -1,0 +1,4 @@
+Nom_compte,Email,Type_admin,Date_creation,Derniere_connexion,Statut_MFA
+Admin IT Prestataire,admin.it@santeplus.fr,Global Admin,2024-01-15,2025-12-08 14:23,Activé
+Admin Direction,admin.direction@santeplus.fr,Global Admin,2024-01-15,2025-12-07 09:15,Activé
+Admin Clinique,admin.clinique@santeplus.fr,User Admin,2024-03-10,2025-12-08 10:45,Activé

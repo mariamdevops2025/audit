@@ -1,0 +1,32 @@
+ID_preuve,Date,Source,Type (doc/capture/entretien/log/observation),Description,Lien/Emplacement,Sensibilité (faible/moyenne/élevée),Anonymisée (oui/non),Assoc. constats (IDs),Collectée par,Validée par
+P-001,2025-12-02,Clinique Santé Plus,doc,Organigramme + rôles SI (direction/IT/prestataires),preuves/P-001_organigramme_roles.pdf,moyenne,oui,,Équipe audit,Chef d’équipe
+P-002,2025-12-08,M365 Admin Center,export,Export statut MFA des comptes utilisateurs,preuves/P-002_export_mfa.csv,élevée,oui,C-001,Équipe audit,Chef d’équipe
+P-003,2025-12-08,M365 Admin Center,capture,Politiques sécurité/authentification (MFA/conditional access),preuves/P-003_policies_mfa.png,élevée,oui,C-001,Équipe audit,Chef d’équipe
+P-004,2025-12-08,M365 Admin Center,export,Liste comptes à privilèges (admins),preuves/P-004_admin_accounts.csv,élevée,oui,C-001,Équipe audit,Chef d’équipe
+P-005,2025-12-09,M365 Admin Center,export,Rapport connexions (extrait anonymisé),preuves/P-005_signin_report.csv,élevée,oui,C-001,Équipe audit,Chef d’équipe
+P-006,2025-12-03,Clinique Santé Plus,doc,Procédure onboarding/offboarding (RH+IT),preuves/P-006_onboarding_offboarding.pdf,moyenne,oui,C-001,Équipe audit,Chef d’équipe
+P-007,2025-12-10,Prestataire IT,export,Preuve désactivation/suppression comptes (échantillon),preuves/P-007_offboarding_sample.pdf,élevée,oui,C-001,Équipe audit,Chef d’équipe
+P-008,2025-12-11,MedSimple,export,Matrice rôles & permissions applicatives,preuves/P-008_roles_permissions.xlsx,élevée,oui,C-001,Équipe audit,Chef d’équipe
+P-009,2025-12-11,MedSimple,capture,Paramètres sécurité applicatifs (session/timeout/journaux),preuves/P-009_parametres_securite.png,élevée,oui,C-005,Équipe audit,Chef d’équipe
+P-010,2025-12-11,MedSimple,export,Extrait logs accès applicatif (anonymisé),preuves/P-010_logs_acces.csv,élevée,oui,C-005,Équipe audit,Chef d’équipe
+P-011,2025-12-11,MedSimple,doc,Politique de rétention logs (éditeur/prestataire),preuves/P-011_retention_logs.pdf,moyenne,oui,C-005,Équipe audit,Chef d’équipe
+P-012,2025-12-12,Poste accueil,observation,Captures Windows Update (poste accueil),preuves/P-012_windows_update_accueil.png,moyenne,oui,C-003,Équipe audit,Chef d’équipe
+P-013,2025-12-12,Prestataire IT,export,Reporting patch (si disponible) ou ticketing,preuves/P-013_reporting_patch.pdf,moyenne,oui,C-003,Équipe audit,Chef d’équipe
+P-014,2025-12-13,Console EDR,export,Couverture antivirus/EDR (inventaire postes),preuves/P-014_couverture_edr.csv,moyenne,oui,C-003,Équipe audit,Chef d’équipe
+P-015,2025-12-13,Console EDR,export,Alertes 90 jours + statut traitement (anonymisé),preuves/P-015_alertes_edr.pdf,moyenne,oui,C-003,Équipe audit,Chef d’équipe
+P-016,2025-12-12,Poste direction,observation,État BitLocker (capture PowerShell/paramètres),preuves/P-016_bitlocker_direction.png,moyenne,oui,C-003,Équipe audit,Chef d’équipe
+P-017,2025-12-12,Poste direction,observation,Paramètres verrouillage session/timeout,preuves/P-017_verrouillage_session.png,faible,oui,C-007,Équipe audit,Chef d’équipe
+P-018,2025-12-14,Pare-feu/Routeur,capture,Configuration Wi‑Fi (WPA2/3, WPS, SSID),preuves/P-018_wifi_config.png,moyenne,oui,C-004,Équipe audit,Chef d’équipe
+P-019,2025-12-14,Pare-feu/Routeur,capture,Règles isolation réseau invité (VLAN/ACL),preuves/P-019_guest_isolation.png,moyenne,oui,C-004,Équipe audit,Chef d’équipe
+P-020,2025-12-14,Pare-feu/Routeur,export,Export règles pare‑feu/NAT (anonymisé),preuves/P-020_firewall_rules.cfg,moyenne,oui,C-004,Équipe audit,Chef d’équipe
+P-021,2025-12-14,Prestataire IT,doc,Liste services exposés Internet + justification,preuves/P-021_exposition_internet.pdf,moyenne,oui,C-004,Équipe audit,Chef d’équipe
+P-022,2025-12-05,Prestataire IT,doc,Plan de sauvegarde (fréquence, périmètre, rétention),preuves/P-022_plan_sauvegarde.pdf,moyenne,oui,C-002,Équipe audit,Chef d’équipe
+P-023,2025-12-15,Console sauvegardes,export,Logs jobs sauvegarde (30 jours),preuves/P-023_logs_sauvegardes.csv,moyenne,oui,C-002,Équipe audit,Chef d’équipe
+P-024,2025-12-15,Prestataire IT,doc,Preuve copie hors site chiffrée (contrat/rapport),preuves/P-024_offsite_chiffre.pdf,moyenne,oui,C-002,Équipe audit,Chef d’équipe
+P-025,2025-12-18,Prestataire IT,doc,PV test restauration (date, résultat, RTO/RPO),preuves/P-025_pv_test_restauration.pdf,moyenne,oui,C-002,Équipe audit,Chef d’équipe
+P-026,2025-12-18,Prestataire IT,observation,Preuve élément restauré (anonymisé),preuves/P-026_fichier_restaure.pdf,élevée,oui,C-002,Équipe audit,Chef d’équipe
+P-027,2025-12-16,Clinique Santé Plus,doc,Procédure de gestion des incidents + arbre d’appel,preuves/P-027_procedure_incident.pdf,moyenne,oui,C-005,Équipe audit,Chef d’équipe
+P-028,2025-12-19,Équipe audit,doc,PV exercice table-top ransomware + actions,preuves/P-028_pv_exercice_ransomware.pdf,moyenne,oui,C-005,Équipe audit,Chef d’équipe
+P-029,2025-12-06,Clinique Santé Plus,doc,Contrats prestataires + DPA (art.28 RGPD),preuves/P-029_contrats_dpa.pdf,élevée,oui,C-006,Équipe audit,Chef d’équipe
+P-030,2025-12-06,Prestataire/Hébergeur,doc,Attestation HDS (si applicable) ou justification,preuves/P-030_attestation_hds.pdf,moyenne,oui,C-006,Équipe audit,Chef d’équipe
+

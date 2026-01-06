@@ -1,0 +1,10 @@
+Date,Heure,Type_sauvegarde,Destination,Statut,Volume_GB,Duree_minutes,Erreurs
+2025-12-15,02:15,Quotidienne M365,Cloud Microsoft,Succès,2.5,5,0
+2025-12-14,02:15,Quotidienne M365,Cloud Microsoft,Succès,2.4,5,0
+2025-12-13,02:15,Quotidienne M365,Cloud Microsoft,Succès,2.5,5,0
+2025-12-08,03:00,Hebdomadaire NAS,Poste Accueil,Succès,120,45,0
+2025-12-08,03:30,Hebdomadaire NAS,Poste Direction,Succès,80,30,0
+2025-12-08,04:00,Offsite,Cloud Prestataire,Succès,200,60,0
+2025-12-01,03:00,Hebdomadaire NAS,Poste Accueil,Succès,118,44,0
+2025-12-01,03:30,Hebdomadaire NAS,Poste Direction,Succès,78,29,0
+2025-12-01,04:00,Offsite,Cloud Prestataire,Succès,196,58,0
