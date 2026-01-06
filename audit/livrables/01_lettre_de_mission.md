@@ -3,7 +3,7 @@
 
 À l’attention de la Direction de **la Clinique Santé Plus**,  
 
-Nous, l’équipe d’audit SSI composée d’étudiants de l’Efrei Paris dans le cadre du module **Audit et gestion des risques — Normes ISO**, vous adressons la présente lettre de mission afin de formaliser le mandat d’audit. Ce document définit les principes des travaux sur lesquels les parties prenantes s’accordent, afin d’éviter tout malentendu et de clarifier les responsabilités, termes et conditions de la mission.
+Nous, l’équipe d’audit SSI composée d’étudiants de l’Efrei Paris dans le cadre du module Audit et gestion des risques Normes ISO, vous adressons la présente lettre de mission afin de formaliser le mandat d’audit. Ce document définit les principes des travaux sur lesquels les parties prenantes s’accordent, afin d’éviter tout malentendu et de clarifier les responsabilités, termes et conditions de la mission.
 
 ## 1. Contexte de la mission
 La **Clinique Santé Plus** est une clinique médicale de petite taille assurant des soins médicaux généraux et manipulant quotidiennement des données de santé sensibles (dossiers patients, informations administratives).  
@@ -38,7 +38,7 @@ Sont exclus :
 ## 4. Référentiels de référence
 Les travaux s’appuient sur :
 - **ISO/IEC 27001** (exigences du SMSI, clauses 4 à 10) ;
-- **ISO/IEC 27002** (mesures de sécurité — contrôles pertinents au contexte d’une petite structure) ;
+- **ISO/IEC 27002** (mesures de sécurité contrôles pertinents au contexte d’une petite structure) ;
 - Guides de bonnes pratiques de l’**ANSSI** (hygiène informatique, mots de passe, sauvegardes, gestion des incidents) ;
 - **RGPD** (principes, sécurité, registre, droits, notification, sous-traitance) ;  
 Le cas échéant, les exigences associées à l’hébergement de données de santé (**HDS**) seront évoquées au niveau de la conformité organisationnelle et contractuelle (sans audit technique d’un hébergeur tiers).
